@@ -1,0 +1,40 @@
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "coordinates": {
+        "x": 10,
+        "y": 20.5
+      },
+      "creationDate": "2024-04-10T10:44:07Z",
+      "price": 100,
+      "partNumber": "PN123",
+      "manufactureCost": 50,
+      "unitOfMeasure": "CENTIMETERS",
+      "owner": {
+        "name": "John Doe",
+        "birthday": "1990-01-01",
+        "weight": 70.5,
+        "passportID": "AB123456"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "coordinates": {
+        "x": 15,
+        "y": 25.0
+      },
+      "creationDate": "2024-04-10T10:44:07Z",
+      "price": 150,
+      "partNumber": "PN456",
+      "manufactureCost": 75,
+      "unitOfMeasure": "SQUARE_METERS",
+      "owner": {
+        "name": "Jane Smith",
+        "birthday": "1985-02-15",
+        "weight": 65.0,
+        "passportID": "CD789012"
+      }
+    }
+  ]
