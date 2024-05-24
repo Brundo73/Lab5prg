@@ -1,0 +1,4 @@
+show
+head
+execute_script files/script1.txt
+head
